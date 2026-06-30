@@ -1,14 +1,21 @@
-# 💫 Hi 👋, I'm Ayush Kumar Gupta
-**A Passionate Backend developer  || DevOps Engineer || 
+<div align="center">
 
-Email Me 👉 ✉️ **ayushlatehar@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=7F00FF&center=true&vCenter=true&width=700&lines=Ayush+Gupta;Competitive+Programmer;Final+Year+IT+Student;FULL+stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+</a>
 
-- 🔭 **I’m currently working on:** System design projects
-- 🌱 **I’m currently learning:** azure
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** ayushlatehar@gmail.com
-- 😄 **Pronouns:** Ayush
-- ⚡ **Fun fact:** think twice code once
+</div>
+
+
+<div align="center">
+
+# Hi, I'm Ayush Gupta 👋
+
+[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=Ayushganeshi&theme=tokyonight&headerStyle=mac)](https://github.com/Ayushganeshi)
+
+</div>
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayush-kumar-gupta-b57473267/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushlatehar@gmail.com) 
